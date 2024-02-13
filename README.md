@@ -31,13 +31,13 @@ Estoy buscando ayuda con la implementación de algoritmos de machine learning en
 Puedes preguntarme sobre cualquier tema relacionado con la informática, la programación o la tecnología en general. Estoy aquí para ayudarte.
 
 ## 📫 Cómo contactarme
-¡Estoy emocionado de seguir aprendiendo y creciendo en el campo de la tecnología! Si estás interesado en colaborar conmigo en proyectos emocionantes o si necesitas ayuda con tus propios proyectos, ¡no dudes en contactarme en gpabloandres@gmail.com(mailto:gpabloandres@gmail.com)!
+¡Estoy emocionado de seguir aprendiendo y creciendo en el campo de la tecnología! Si estás interesado en colaborar conmigo en proyectos emocionantes o si necesitas ayuda con tus propios proyectos, ¡no dudes en contactarme en mailto:gpabloandres@gmail.com!
 
 ## ⚡ Dato curioso
 Un dato curioso sobre mí es que también soy un apasionado de la vida sana (meditación, Yoga) y la naturaleza (montañismo, trekking).
 
 ## 🔗 Enlaces
 - [LinkedIn](https://www.linkedin.com/in/tu_perfil)
-- (https://www.linktr.ee/pablogay)
+- https://www.linktr.ee/pablogay
 
 ¡Gracias por visitar mi perfil! Espero poder conectarme contigo pronto. 🚀
