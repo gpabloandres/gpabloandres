@@ -34,7 +34,7 @@ Puedes preguntarme sobre cualquier tema relacionado con la informática, la prog
 ¡Estoy emocionado de seguir aprendiendo y creciendo en el campo de la tecnología! Si estás interesado en colaborar conmigo en proyectos emocionantes o si necesitas ayuda con tus propios proyectos, ¡no dudes en contactarme en mailto:gpabloandres@gmail.com!
 
 ## ⚡ Dato curioso
-Un dato curioso sobre mí es que también soy un apasionado de la vida sana (meditación, Yoga) y la naturaleza (montañismo, trekking).
+Un dato curioso sobre mí es que también soy un apasionado de la vida sana (meditación, Yoga) y la naturaleza (montañismo, trekking, natación).
 
 ## 🔗 Enlaces
 - [LinkedIn](https://www.linkedin.com/in/tu_perfil)
