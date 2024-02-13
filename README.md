@@ -1,17 +1,19 @@
-# Hola, soy [Tu nombre] 👨‍💻
+# Hola, soy Pablo Gay 👨‍💻
 
 ## 👨‍🏫 Acerca de mí
-¡Hola! Soy un apasionado Asistente IT con experiencia en informática, diseño web, programación básica, así como desarrollo front-end y back-end. Además, trabajo como docente de Ciencias de la Computación y Programación, compartiendo mi conocimiento y pasión por la tecnología con otros.
+¡Hola! Soy un apasionado Asistente IT con experiencia en informática, programación, desarrollo web front-end y back-end, así como en computación física. Además, trabajo como docente de Ciencias de la Computación y Programación y como asistente virtual, compartiendo mi conocimiento y pasión por la tecnología con otros.
 
 ## 🚀 Experiencia
-Con años de experiencia en la industria, he brindado soporte técnico a usuarios, diseñado sitios web impresionantes y desarrollado aplicaciones web completas. Mi enfoque en la atención al detalle y la resolución de problemas me ha permitido sobresalir en entornos desafiantes.
+Con años de experiencia en la educación y la tecnología, he brindado soporte técnico a instituciones y empresas, diseñado sitios web, desarrollado sistemas web completos y aplicaciones de control. Mi enfoque en la atención al detalle y la resolución de problemas me ha permitido sobresalir en entornos desafiantes.
 
 ## 🛠️ Habilidades
 - **Informática:** Resolución de problemas, mantenimiento de hardware y software.
 - **Diseño web:** HTML, CSS, Bootstrap.
 - **Programación básica:** Python, JavaScript.
 - **Desarrollo front-end:** React, Vue.js.
-- **Desarrollo back-end:** Node.js, Express, MongoDB.
+- **Desarrollo back-end:** Node.js, Django, MySQL.
+- **Despliegue:** Docker.
+- **Desarrollo WordPress:** Diseño de sitios, desarrollo de sistemas de academias online y de e-commerce. 
 
 ## 🔭 Actualmente estoy trabajando en
 Estoy trabajando en mejorar mis habilidades de desarrollo web y aprender nuevas tecnologías para seguir creciendo profesionalmente.
@@ -29,16 +31,13 @@ Estoy buscando ayuda con la implementación de algoritmos de machine learning en
 Puedes preguntarme sobre cualquier tema relacionado con la informática, la programación o la tecnología en general. Estoy aquí para ayudarte.
 
 ## 📫 Cómo contactarme
-¡Estoy emocionado de seguir aprendiendo y creciendo en el campo de la tecnología! Si estás interesado en colaborar conmigo en proyectos emocionantes o si necesitas ayuda con tus propios proyectos, ¡no dudes en contactarme en [tu@email.com](mailto:tu@email.com)!
-
-## 😄 Pronombres
-Mis pronombres son él/ella.
+¡Estoy emocionado de seguir aprendiendo y creciendo en el campo de la tecnología! Si estás interesado en colaborar conmigo en proyectos emocionantes o si necesitas ayuda con tus propios proyectos, ¡no dudes en contactarme en gpabloandres@gmail.com(mailto:gpabloandres@gmail.com)!
 
 ## ⚡ Dato curioso
-Un dato curioso sobre mí es que también soy un apasionado de la música y toco la guitarra en mi tiempo libre.
+Un dato curioso sobre mí es que también soy un apasionado de la vida sana (meditación, Yoga) y la naturaleza (montañismo, trekking).
 
 ## 🔗 Enlaces
 - [LinkedIn](https://www.linkedin.com/in/tu_perfil)
-- [Sitio web personal](https://www.tusitio.com)
+- (https://www.linktr.ee/pablogay)
 
 ¡Gracias por visitar mi perfil! Espero poder conectarme contigo pronto. 🚀
