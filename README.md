@@ -1,43 +1,44 @@
-# Hola, soy Pablo Gay 👨‍💻
+# Hola, soy Pablo Andrés Gay 👨‍💻
 
-## 👨‍🏫 Acerca de mí
-¡Hola! Soy un apasionado de la tecnología y la asistencia IT, con experiencia en informática, programación, desarrollo web front-end y back-end, así como en computación física. Además, trabajo como docente de Programación y como asistente virtual, compartiendo mi conocimiento y pasión por la tecnología con otros.
+Profesional de la tecnología con más de 17 años de experiencia en informática, desarrollo digital, gestión de proyectos y educación técnica. Me especializo en integrar soluciones innovadoras en Inteligencia Artificial, IoT, automatización y transformación digital, con foco en generar impacto real en educación, industria y procesos productivos.
 
-## 🚀 Experiencia
-Más de 17 años de experiencia en la educación tecnológica, he brindado soporte técnico tanto a instituciones públicas y privadas como a pymes, asistiendolas en desarrollos de sistemas web completos y aplicaciones de control. Mi enfoque en la atención al detalle y la resolución de problemas me ha permitido sobresalir en entornos desafiantes.
+## 👨‍🏫 Sobre mí
+Soy un profesional con trayectoria en proyectos tecnológicos tanto en el ámbito educativo como en organizaciones públicas y privadas. Combino visión estratégica, experiencia práctica y capacidad de formación para convertir ideas en soluciones concretas, escalables y con valor operativo.
 
-## 🛠️ Habilidades
-- **Informática:** Resolución de problemas, mantenimiento de hardware y software.
-- **Diseño web:** HTML, CSS, Bootstrap.
-- **Programación básica:** Python, JavaScript.
-- **Desarrollo front-end:** React, Vue.js.
-- **Desarrollo back-end:** Node.js, Django, MySQL.
-- **Despliegue:** Docker, Cloud Computing.
-- **Desarrollo WordPress:** Diseño de sitios, desarrollo de sistemas de academias online y de e-commerce. 
-- **Sistemas embebidos:** Arduino, MicroPython, MQTT, Node-RED, InfluxDB, Grafana.
+## 🚀 Áreas de especialización
+- Inteligencia Artificial aplicada a procesos y productos
+- IoT e Industria 4.0
+- Automatización de procesos y monitoreo
+- Desarrollo web, sistemas y despliegues tecnológicos
+- Innovación educativa y formación técnica
 
-## 🔭 Actualmente estoy trabajando en
-Mejorar mis habilidades y herramental para desarrollar programas de capacitación en desarrollos de apps para Domótica, IOT e Industria 4.0.
+## 🛠️ Stack y herramientas
+- Programación: Python, JavaScript, PHP, C++, SQL, NoSQL
+- Web y DevOps: HTML, CSS, Bootstrap, GitHub, Docker, CI/CD, Linux
+- IoT y Automatización: Node-RED, MQTT, Grafana, InfluxDB, PLC, SCADA
+- IA y herramientas modernas: LLMs, RAG, agentes, skills y desarrollo asistido por IA
 
-## 🌱 Actualmente estoy aprendiendo
-Sobre inteligencia artificial y machine learning para aplicar estos conocimientos en proyectos futuros.
+## 🔥 Proyectos destacados
+- Lideré el proyecto MARTECH, un sistema IoT automatizado para cultivo de hongos, reconocido con mención especial nacional.
+- Participé en el desarrollo y despliegue del sistema SIEP para más de 200 instituciones.
+- Coordiné el desarrollo de la PWA Nuestras Malvinas, declarada de interés nacional.
+- Contribuí en la creación de soluciones tecnológicas para educación, gestión y automatización institucional.
 
-## 👯 Estoy buscando colaborar en
-En proyectos relacionados con el control y la automatización de procesos y el mejoramiento de la productividad por medio del uso de IA.
+## 🔭 Actualmente trabajando en
+Estoy fortaleciendo mis capacidades en IA, automatización y soluciones para domótica, IoT e Industria 4.0, con el objetivo de construir proyectos más inteligentes, eficientes y alineados con las necesidades del sector.
 
-## 🤔 Estoy buscando ayuda con
-La implementación de aplicaciones para la Industria 4.0
+## 🌱 Actualmente aprendiendo
+Profundizo en Inteligencia Artificial, machine learning y nuevas formas de aplicar la tecnología para generar valor en educación, industria y gestión.
+
+## 🤝 Estoy buscando colaborar en
+Proyectos relacionados con automatización, control de procesos, soluciones IoT/IIoT, innovación tecnológica y aplicaciones de IA orientadas a mejorar la productividad y la experiencia de usuario.
 
 ## 💬 Pregúntame sobre
-Cualquier tema relacionado con la informática, programación web, IOT, Visión Computarizada, IA o la tecnología en general. Estoy aquí para ayudarte.
+Informática, programación, desarrollo web, IoT, visión computarizada, automatización, IA o tecnología aplicada a la innovación.
 
-## 📫 Cómo contactarme
-¡Estoy emocionado de seguir aprendiendo y creciendo en el campo de la tecnología! Si estás interesado en colaborar conmigo en proyectos emocionantes o si necesitas ayuda con tus propios proyectos, ¡no dudes en contactarme en mailto:gpabloandres@gmail.com!
+## 📫 Contacto
+- Email: gpabloandres@gmail.com
+- Linktree: https://linktr.ee/gpabloandres
+- Ubicación: Tierra del Fuego, Argentina
 
-## ⚡ Dato curioso
-Soy un apasionado de la vida sana (meditación, Yoga) y la naturaleza (montañismo, trekking, canotaje y natación).
-
-## 🔗 Enlaces
-- [https://www.linktr.ee/pablogay](https://linktr.ee/gpabloandres)
-
-¡Gracias por visitar mi perfil! Espero poder conectarme contigo pronto. 🚀
+Siempre estoy abierto a conectar con personas interesadas en tecnología, formación, innovación y proyectos de impacto. 🚀
